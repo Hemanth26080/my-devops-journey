@@ -1,0 +1,27 @@
+🔍 System Health Report - 2025-08-31 21:21
+💻 Hostname: HEMANTH
+🌐 IP Address: 
+💾 Disk Usage:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  281G  124G  157G  45% /
+📊 CPU & Memory:
+🌐 Internet Test:
+
+Pinging google.com [142.251.39.110] with 32 bytes of data:
+Reply from 142.251.39.110: bytes=32 time=20ms TTL=119
+Reply from 142.251.39.110: bytes=32 time=21ms TTL=119
+Reply from 142.251.39.110: bytes=32 time=21ms TTL=119
+
+Ping statistics for 142.251.39.110:
+    Packets: Sent = 3, Received = 3, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 20ms, Maximum = 21ms, Average = 20ms
+----------------------------
+🔍 System Health Report - Sun Aug 31 21:23:04 RDT 2025
+💻 Hostname: HEMANTH
+🌐 IP Address: 
+💾 Disk Usage:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  281G  124G  157G  45% /
+📊 CPU & Memory:
+----------------------------
